@@ -1,0 +1,19 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the-black-knights",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "express": "^4.16.4",
+    "node-gyp-build": "^3.5.0",
+    "socket.io": "^1.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
