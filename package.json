@@ -1,0 +1,11 @@
+{
+  "name": "thopechess",
+  "version": "1.0.0",
+  "description": "Thope Chess",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Nikhil Pappu, Nikhil Sairam Reddy",
+  "license": "ISC"
+}
